@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="omega-chess-parent" target="11" />
+      <module name="omega-console" target="11" />
+      <module name="omega-engine" target="11" />
+      <module name="omega-gui" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
